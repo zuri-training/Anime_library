@@ -8,8 +8,7 @@ With a lot of help from my other Outstanding Team mates
 
 Patrick {
 Github:
-"<a href="github.com/patoski-patoski"></a>",
-
+github.com/patoski-patoski
 STUDENT ID:
 I4G030112E56
 
@@ -17,7 +16,7 @@ I4G030112E56
 
 Blessing{
 Github:
-<a href="github.com/princessb1"></a>
+github.com/princessb1
 
 STUDENT ID:
 14G011782AKS
