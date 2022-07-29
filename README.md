@@ -1,6 +1,6 @@
 A CSS library created for a project work assigned by Zuri and I4G. 
 
-Project_Anime
+Project_Anime_lib
 Team 92_Moov
 
 Masterminded by Blessing and Patrick
@@ -16,7 +16,7 @@ I4G030112E56
 }
 
 Blessing{
-
+Github:
 <a href="github.com/princessb1"></a>
 
 STUDENT ID:
