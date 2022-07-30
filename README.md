@@ -6,21 +6,11 @@
 Masterminded by Blessing and Patrick
 With a lot of help from other outstanding Team mates
 
-Patrick {
-Github:
-github.com/patoski-patoski
-STUDENT ID:
-I4G030112E56
+Patrick Github: github.com/patoski-patoski
+STUDENT ID: I4G030112E56
 
 }
 
-Blessing{
-Github:
-github.com/princessb1
-
-STUDENT ID:
-14G011782AKS
-
-}
-
-
+Blessing
+Github: github.com/princessb1
+STUDENT ID: 14G011782AKS
