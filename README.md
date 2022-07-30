@@ -1,4 +1,4 @@
-A CSS library created for a project work assigned by Zuri and I4G. 
+<h1>A CSS library created for a project work assigned by Zuri and I4G.</h1>
 
 Project_Anime_lib
 Team 92_Moov
